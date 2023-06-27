@@ -3,7 +3,7 @@
 
 JavaScriptES6
 
--   By Johann Kerbrat, Engineering Manager at Uber Works
+-   By Leonard J.J.R.A Mhone
 
 ### Concepts
 
